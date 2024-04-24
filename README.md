@@ -1,4 +1,5 @@
 # Simple To-do web-site
+Pet-project used to learn Next.js features and get familiar with Pocketbase service
 
 ## How to run
 
