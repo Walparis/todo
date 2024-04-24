@@ -1,4 +1,4 @@
-## Simple To-do web-site
+# Simple To-do web-site
 
 ## How to run
 
